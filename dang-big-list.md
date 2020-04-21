@@ -18,3 +18,6 @@ For now just aggregating resources and brainstorming organization
 ## Other Practitioner Cert Resources
 - [List of Purported Exam Questions](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner)
 - [Udemy 6 Practice Exams for $20](https://www.udemy.com/course/aws-cloud-certified-practitioner-mock-tests/) : At least slightly outdated
+
+## Possibly Useful Topics
+- [Amazon Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)

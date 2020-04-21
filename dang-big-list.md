@@ -21,3 +21,9 @@ For now just aggregating resources and brainstorming organization
 
 ## Possibly Useful Topics
 - [Amazon Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- AWS Well Architected 5 Pillar Whitepapers:
+  - [Cost Optimization](https://d0.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf?ref=wellarchitected-wp)
+  - [Operational Excellence](https://d0.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf?ref=wellarchitected-wp)
+  - [Performance Efficiency](https://d0.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf?ref=wellarchitected-wp)
+  - [Reliability](https://d0.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf?ref=wellarchitected-wp)
+  - [Security](https://d0.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf?ref=wellarchitected-wp)
